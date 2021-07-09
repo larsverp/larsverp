@@ -1,6 +1,8 @@
 ### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api?username=larsverp&show_icons=true&include_all_commits=true&count_private=true&theme=dark">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larsverp&count_private=true&layout=compact%22%3E&theme=dark">
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=larsverp&show_icons=true&include_all_commits=true&count_private=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larsverp&count_private=true&layout=compact%22%3E&theme=dark">
+</p>
   
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=larsverp&hide_border=true&theme=dark)
 
